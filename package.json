@@ -1,0 +1,24 @@
+{
+  "name": "random-prompt",
+  "version": "1.0.0",
+  "description": "Random prompt message in the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsantodeveloper/random-prompt.git"
+  },
+  "keywords": [],
+  "author": "Diego Santos <dseosantos76@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elsantodeveloper/random-prompt/issues"
+  },
+  "homepage": "https://github.com/elsantodeveloper/random-prompt#readme",
+  "bin": {
+    "random-prompt-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
